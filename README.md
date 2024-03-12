@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I'm currently working with Node.js
-🎯 I'm interested in Java
+🔭 I'm currently working with Node.js<br>
+🎯 I'm interested in Java<br>
 👓 Always working hard to achieve my goals
 
 # 💻 Tech Stack:
