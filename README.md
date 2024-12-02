@@ -1,5 +1,5 @@
 # 🔥About Me:
-🔭 I'm currently working with Node.js<br>
+🔭 Currently exploring the power of Node.js<br>
 👓 I'm interested in Java<br>
 
 # 💻 Tech Stack:
