@@ -1,6 +1,6 @@
 # 🔥About Me:
 🔭 Currently exploring the power of Node.js and JavaSpring<br>
-💡 Exploring in Artificial Intelligence | Machine Learning | Deep Learning
+💡 Exploring Artificial Intelligence | Machine Learning | Deep Learning
 <br>
 
 # 💻 Tech Stack:
