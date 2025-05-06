@@ -1,5 +1,5 @@
 # 🔥About Me:
-🔭 Currently exploring the power of Node.js and JavaSpring<br>
+🔭 Using the power of Node.js and Java Spring to build fast and reliable systems<br>
 💡 Exploring Artificial Intelligence | Machine Learning | Deep Learning
 <br>
 
